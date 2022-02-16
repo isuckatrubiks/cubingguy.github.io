@@ -1,11 +1,8 @@
 ## Welcome to cubingguy.github.io
 
-### Markdown
+### About me
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+I am a 11 year old boy who likes to code, play soccer, and solve Rubik's Cubes
 
 # Header 1
 ## Header 2
